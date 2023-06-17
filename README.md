@@ -1,1 +1,2 @@
 # ChatGpt
+In this project chatGPT is used inside of a python file to answer questions entered by the user. An outside file is passed as information into the program and using the information in the file chatGPT can answer the users questions. The program allows the user to keep inputting questions and chatGPT will generate a response until the user chooses to exit out of the loop. The goal of this project was to pass information in a file to chatGPT and get answers based on what was in the file.
